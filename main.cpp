@@ -1,18 +1,9 @@
 #include "EventAnalysis.hxx"
 
-#include <TUnitsTable.hxx>
-
-#include <TGeoManager.h>
-#include <TGeoShape.h>
-#include <TGeoEltu.h>
-#include <TGeoSphere.h>
-#include <TGeoMatrix.h>
-
 #include <TFile.h>
 #include <TObject.h>
 #include <TEveManager.h>
 #include <TColor.h>
-#include <TGLViewer.h>
 #include <TChain.h>
 #include <TROOT.h>
 #include <TSystem.h>
